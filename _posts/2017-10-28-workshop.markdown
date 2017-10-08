@@ -1,5 +1,5 @@
 ---
-title: Workshop mit Tao
+title: Workshop mit Tau
 subtitle: Intermediate
 layout: default
 modal-id: 1
